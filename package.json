@@ -1,6 +1,6 @@
 {
     "name": "helenus",
-    "version": "0.6.11",
+    "version": "0.6.12",
     "description": "NodeJS Bindings for Cassandra",
     "keywords": [
         "cassandra"
